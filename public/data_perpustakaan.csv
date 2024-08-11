@@ -1,0 +1,101 @@
+ID,Judul_Buku,Penulis,Tahun_Terbit,Peminjam,Tanggal_Pinjam,Tanggal_Kembali,Status
+1,Ronggeng Dukuh Paruk,Ahmad Tohari,1996,Fandi,2023-02-16,2023-03-03,Dikembalikan
+2,Sang Pemimpi,Andrea Hirata,1998,Fandi,2023-04-30,2023-05-20,Dikembalikan
+3,Bumi Manusia,Pramoedya Ananta Toer,2014,Hadi,2023-03-24,2023-04-08,Dikembalikan
+4,Negeri 5 Menara,Ahmad Fuadi,2010,Fandi,2023-06-07,2023-06-30,Dikembalikan
+5,Ayat-Ayat Cinta,Habiburrahman El Shirazy,2022,Eka,2023-12-11,2024-01-06,Dipinjam
+6,Sang Pemimpi,Andrea Hirata,2008,Joko,2023-02-18,2023-02-24,Terlambat
+7,Sang Pemimpi,Andrea Hirata,2017,Ani,2023-11-18,2023-11-21,Terlambat
+8,Bumi Manusia,Pramoedya Ananta Toer,2017,Citra,2023-12-21,2024-01-05,Dikembalikan
+9,Perahu Kertas,Dee Lestari,2009,Ani,2023-06-30,2023-07-06,Dipinjam
+10,Supernova,Dee Lestari,2005,Gita,2023-01-19,2023-01-28,Terlambat
+11,Bumi Manusia,Pramoedya Ananta Toer,2002,Ani,2023-01-06,2023-01-07,Dipinjam
+12,Pulang,Tere Liye,2008,Hadi,2023-04-04,2023-05-01,Dikembalikan
+13,Ronggeng Dukuh Paruk,Ahmad Tohari,2016,Eka,2023-01-02,2023-01-30,Dikembalikan
+14,Cantik Itu Luka,Eka Kurniawan,2011,Dodi,2023-07-14,2023-08-02,Dikembalikan
+15,Perahu Kertas,Dee Lestari,1991,Ina,2023-06-20,2023-07-11,Dipinjam
+16,Supernova,Dee Lestari,1994,Ani,2023-10-11,2023-11-05,Terlambat
+17,Laskar Pelangi,Andrea Hirata,2014,Dodi,2023-08-07,2023-08-17,Dipinjam
+18,Pulang,Tere Liye,2014,Budi,2023-02-07,2023-02-24,Dipinjam
+19,Sang Pemimpi,Andrea Hirata,2007,Ani,2023-02-25,2023-03-05,Dikembalikan
+20,Sang Pemimpi,Andrea Hirata,2009,Hadi,2023-12-30,2024-01-09,Dipinjam
+21,Sang Pemimpi,Andrea Hirata,1993,Citra,2023-10-25,2023-11-06,Dipinjam
+22,Laskar Pelangi,Andrea Hirata,2006,Citra,2023-01-18,2023-02-09,Dikembalikan
+23,Sang Pemimpi,Andrea Hirata,2008,Ani,2023-07-29,2023-08-14,Dipinjam
+24,Negeri 5 Menara,Ahmad Fuadi,2008,Gita,2023-08-02,2023-08-22,Dipinjam
+25,Ayat-Ayat Cinta,Habiburrahman El Shirazy,1995,Citra,2023-10-07,2023-10-18,Dikembalikan
+26,Laskar Pelangi,Andrea Hirata,2019,Dodi,2023-05-12,2023-05-20,Dikembalikan
+27,Ronggeng Dukuh Paruk,Ahmad Tohari,1991,Ani,2023-01-04,2023-01-06,Terlambat
+28,Cantik Itu Luka,Eka Kurniawan,1993,Ina,2023-02-11,2023-03-10,Terlambat
+29,Cantik Itu Luka,Eka Kurniawan,1991,Hadi,2023-02-07,2023-02-19,Terlambat
+30,Ronggeng Dukuh Paruk,Ahmad Tohari,2021,Joko,2023-09-20,2023-10-07,Terlambat
+31,Laskar Pelangi,Andrea Hirata,1990,Gita,2023-10-24,2023-11-17,Terlambat
+32,Perahu Kertas,Dee Lestari,2022,Fandi,2023-07-26,2023-07-30,Terlambat
+33,Sang Pemimpi,Andrea Hirata,1993,Ani,2023-09-05,2023-09-09,Dikembalikan
+34,Bumi Manusia,Pramoedya Ananta Toer,1996,Hadi,2023-05-10,2023-06-09,Terlambat
+35,Ayat-Ayat Cinta,Habiburrahman El Shirazy,2014,Citra,2023-01-29,2023-02-04,Dikembalikan
+36,Supernova,Dee Lestari,2013,Eka,2023-04-30,2023-05-21,Dipinjam
+37,Bumi Manusia,Pramoedya Ananta Toer,2023,Hadi,2023-12-01,2023-12-19,Terlambat
+38,Cantik Itu Luka,Eka Kurniawan,2002,Gita,2023-10-29,2023-11-23,Dikembalikan
+39,Negeri 5 Menara,Ahmad Fuadi,2001,Citra,2023-01-09,2023-01-30,Dikembalikan
+40,Laskar Pelangi,Andrea Hirata,1996,Citra,2023-09-30,2023-10-19,Dikembalikan
+41,Cantik Itu Luka,Eka Kurniawan,2010,Ina,2023-12-05,2023-12-09,Dikembalikan
+42,Negeri 5 Menara,Ahmad Fuadi,2020,Budi,2023-08-09,2023-08-22,Terlambat
+43,Negeri 5 Menara,Ahmad Fuadi,2021,Citra,2023-03-08,2023-03-13,Dipinjam
+44,Pulang,Tere Liye,2018,Joko,2023-03-30,2023-04-26,Terlambat
+45,Pulang,Tere Liye,1994,Hadi,2023-09-28,2023-10-16,Dipinjam
+46,Cantik Itu Luka,Eka Kurniawan,2002,Citra,2023-06-08,2023-06-23,Terlambat
+47,Bumi Manusia,Pramoedya Ananta Toer,2005,Hadi,2023-08-19,2023-09-12,Dipinjam
+48,Perahu Kertas,Dee Lestari,1991,Joko,2023-11-12,2023-11-17,Dipinjam
+49,Sang Pemimpi,Andrea Hirata,2019,Ani,2023-06-03,2023-06-16,Dipinjam
+50,Ronggeng Dukuh Paruk,Ahmad Tohari,2004,Eka,2023-06-04,2023-07-01,Dikembalikan
+51,Negeri 5 Menara,Ahmad Fuadi,2010,Dodi,2023-05-13,2023-05-26,Dikembalikan
+52,Perahu Kertas,Dee Lestari,2002,Eka,2023-08-15,2023-08-31,Dikembalikan
+53,Cantik Itu Luka,Eka Kurniawan,2008,Fandi,2023-12-18,2024-01-17,Terlambat
+54,Perahu Kertas,Dee Lestari,2018,Citra,2023-05-15,2023-06-10,Dipinjam
+55,Laskar Pelangi,Andrea Hirata,2010,Ani,2023-04-10,2023-05-01,Dikembalikan
+56,Ronggeng Dukuh Paruk,Ahmad Tohari,2008,Citra,2023-09-18,2023-10-02,Dipinjam
+57,Supernova,Dee Lestari,1996,Dodi,2023-10-07,2023-10-19,Terlambat
+58,Bumi Manusia,Pramoedya Ananta Toer,2020,Ina,2023-04-11,2023-04-24,Terlambat
+59,Supernova,Dee Lestari,1998,Dodi,2023-11-01,2023-11-09,Terlambat
+60,Negeri 5 Menara,Ahmad Fuadi,2013,Eka,2023-07-10,2023-07-17,Dikembalikan
+61,Laskar Pelangi,Andrea Hirata,1993,Dodi,2023-08-15,2023-09-14,Dikembalikan
+62,Ronggeng Dukuh Paruk,Ahmad Tohari,2004,Hadi,2023-01-03,2023-01-22,Dikembalikan
+63,Laskar Pelangi,Andrea Hirata,2011,Hadi,2023-10-30,2023-11-03,Dipinjam
+64,Sang Pemimpi,Andrea Hirata,2008,Ani,2023-09-21,2023-10-06,Terlambat
+65,Ayat-Ayat Cinta,Habiburrahman El Shirazy,2020,Ina,2023-10-31,2023-11-03,Dikembalikan
+66,Laskar Pelangi,Andrea Hirata,2012,Ina,2023-06-14,2023-07-09,Terlambat
+67,Cantik Itu Luka,Eka Kurniawan,1996,Gita,2023-05-18,2023-05-27,Dipinjam
+68,Perahu Kertas,Dee Lestari,2006,Hadi,2023-06-25,2023-07-20,Terlambat
+69,Pulang,Tere Liye,1994,Fandi,2023-10-29,2023-10-30,Dikembalikan
+70,Pulang,Tere Liye,2013,Fandi,2023-04-11,2023-04-25,Dikembalikan
+71,Bumi Manusia,Pramoedya Ananta Toer,2022,Joko,2023-05-11,2023-05-18,Terlambat
+72,Sang Pemimpi,Andrea Hirata,2005,Joko,2023-12-04,2023-12-07,Dikembalikan
+73,Laskar Pelangi,Andrea Hirata,2009,Gita,2023-07-16,2023-07-26,Dipinjam
+74,Cantik Itu Luka,Eka Kurniawan,1998,Citra,2023-02-11,2023-03-07,Dikembalikan
+75,Ronggeng Dukuh Paruk,Ahmad Tohari,2014,Fandi,2023-04-30,2023-05-12,Dikembalikan
+76,Supernova,Dee Lestari,2007,Citra,2023-04-25,2023-04-29,Dipinjam
+77,Perahu Kertas,Dee Lestari,1994,Dodi,2023-08-29,2023-09-06,Terlambat
+78,Perahu Kertas,Dee Lestari,2016,Fandi,2023-07-12,2023-08-02,Dikembalikan
+79,Bumi Manusia,Pramoedya Ananta Toer,2001,Ina,2023-08-08,2023-09-07,Dikembalikan
+80,Supernova,Dee Lestari,1999,Hadi,2023-04-22,2023-04-23,Terlambat
+81,Ronggeng Dukuh Paruk,Ahmad Tohari,2015,Citra,2023-01-06,2023-01-11,Dikembalikan
+82,Pulang,Tere Liye,2014,Joko,2023-05-07,2023-05-09,Dipinjam
+83,Ayat-Ayat Cinta,Habiburrahman El Shirazy,2003,Ani,2023-05-01,2023-05-20,Dipinjam
+84,Supernova,Dee Lestari,2018,Eka,2023-02-01,2023-02-06,Terlambat
+85,Bumi Manusia,Pramoedya Ananta Toer,1992,Joko,2023-12-22,2024-01-18,Dikembalikan
+86,Sang Pemimpi,Andrea Hirata,2017,Eka,2023-04-27,2023-05-23,Dikembalikan
+87,Bumi Manusia,Pramoedya Ananta Toer,2012,Budi,2023-01-03,2023-01-30,Terlambat
+88,Laskar Pelangi,Andrea Hirata,2017,Dodi,2023-04-27,2023-05-02,Terlambat
+89,Laskar Pelangi,Andrea Hirata,1992,Eka,2023-08-20,2023-09-06,Terlambat
+90,Negeri 5 Menara,Ahmad Fuadi,2003,Eka,2023-03-09,2023-04-01,Dipinjam
+91,Pulang,Tere Liye,2001,Joko,2023-12-25,2024-01-18,Dipinjam
+92,Bumi Manusia,Pramoedya Ananta Toer,2022,Gita,2023-05-06,2023-05-12,Dipinjam
+93,Bumi Manusia,Pramoedya Ananta Toer,1998,Dodi,2023-06-20,2023-07-18,Dikembalikan
+94,Supernova,Dee Lestari,1993,Ani,2023-11-11,2023-11-29,Terlambat
+95,Ronggeng Dukuh Paruk,Ahmad Tohari,2016,Eka,2023-04-10,2023-04-24,Terlambat
+96,Negeri 5 Menara,Ahmad Fuadi,1990,Joko,2023-04-22,2023-05-07,Terlambat
+97,Bumi Manusia,Pramoedya Ananta Toer,2019,Ani,2023-06-19,2023-06-24,Terlambat
+98,Sang Pemimpi,Andrea Hirata,1999,Fandi,2023-01-16,2023-02-13,Terlambat
+99,Bumi Manusia,Pramoedya Ananta Toer,2018,Hadi,2023-02-11,2023-02-13,Terlambat
+100,Ayat-Ayat Cinta,Habiburrahman El Shirazy,2020,Hadi,2023-11-18,2023-12-11,Dikembalikan
